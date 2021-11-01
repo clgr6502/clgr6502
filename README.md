@@ -1,5 +1,7 @@
-- 👋 :smile: Hello!
+<h2>👋 Greatings!</h2>
 <!--- - 👀 I’m interested in games development --->
+
+- ☀️ From Italy
 - :books: Currently studying Computer Science @ Università di Pisa (IT) :books:
 <!--- - 🌱 I’m currently learning ... --->
 - :floppy_disk: Vintage electronics enthusiast :floppy_disk:
