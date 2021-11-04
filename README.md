@@ -13,3 +13,11 @@
 clgr6502/clgr6502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h2>:scroll: Languages</h2>
+
+- Mainly C
+- ARM v7 Assembly, for my Uni Computer Architecture course
+- Linux Bash shell
+- Java (:warning: work in progress :warning:)
+- Italian and English, of course
